@@ -14,12 +14,12 @@ vegetarian meals at cozy environments.
     <h3>Execution</h3>
     <p>If you want to run our project in your local machine</p>
     <p>Follow the given steps:</p>
-    
-        <h1>Built with</h1>
+    <h1>Built with</h1>
     <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Javascript (ES6)</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript (ES6)</li>
+    </ul>
   <li>React.js</li>
   <li>React Routing</li>
         <li>node js</li>
@@ -32,5 +32,3 @@ vegetarian meals at cozy environments.
          <li><a href="https://github.com/rk6093720">Rohit Kumar</a></li>
         <li><a href="https://github.com/muskan2507">@muskan2507</a></li>
         <li>@Vaibhav jadhav</a></li>
-        
-    </ul>  
